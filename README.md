@@ -1,2 +1,2 @@
 # Gfg
-Solving GFG problems daily
+Solving LeetCode problems daily
